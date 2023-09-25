@@ -1,0 +1,96 @@
+<html>
+
+<head></head>
+  <body>
+    <form>
+      Enter your first name,last name and age<br> 
+
+      <label for="name">First name</label>
+      <input id="name" placeholder="name"   type="name">
+      <label for="last-name">Last name</label>
+      <input id="last-name" placeholder="name"   type="name">
+      <label for="age">Age</label>
+      <input id="age" placeholder="age"   type="age">
+      <br> <br>
+      <textarea Note="fhjj"></textarea>
+      
+      <table cellspacing="25">
+        <tr>
+          <td>Jriuhgdkfbhgkdfhkighrdskhvkdfhzvkjcbfzkjbvcfkzbvjkdfvbkjdjkvbjkfkfd
+            gkbnkfns klncxklnklvmbnl
+            
+          </td>
+
+          <td>
+            <label for="answer1">Answer1</label>
+            <input name="answer" id="answer1" type="radio">
+            <br> 
+            <label for="answer2">Answer2</label>
+            <input name="answer" id="answer2" type="radio">
+            <br>
+            <label for="answer3">Answer3</label>
+            <input name="answer" id="answer3" type="radio">
+          </td>
+            </tr>
+            <tr>
+              <td>Bkdgfajkvhdakjvhkjdfahvidahihvd
+                dshvdbfnakvdfkhbvkdfbvfd
+                fvidfahljpodhvckldflvihad
+              
+              </td>
+              <td>
+                <label for="answer1">Answer1</label>
+                <input name="answer" id="answer1" type="radio">
+                <br> 
+                <label for="answer2">Answer2</label>
+                <input name="answer" id="answer2" type="radio">
+                <br>
+                <label for="answer3">Answer3</label>
+                <input name="answer" id="answer3" type="radio">
+            </td>
+            </tr>
+            <tr>
+              <td>Kiwfiheahfhaiieffjeuwhfkehakfhdilahfioeovhjoadhvfdahi
+                eiwfhileahfjdsahvldsahlvjdajfoajovjdaofvefjeurhwgihigrwhi
+                vjcnjdaholvfjoaipdwopfgjijgiotrjiohj
+              </td>
+                <td>
+                  <label for="answer1">Answer1</label>
+                  <input name="answer" id="answer1" type="radio">
+                  <br> 
+                  <label for="answer2">Answer2</label>
+                  <input name="answer" id="answer2" type="radio">
+                  <br>
+                  <label for="answer3">Answer3</label>
+                  <input name="answer" id="answer3" type="radio">
+                </td>
+              </tr>
+              <tr>
+                <td>Weidbfhukeadhfocjdaehfujiejwfojeopfjoperfopejap
+                  opwEJFLIHGIDUSGHEOQOAJRDO;FV
+                  fhielhierfnherilhjforejrolfjerado
+                </td>
+                <td>  
+                  <label for="answer1">Answer1</label>
+                  <input name="answer" id="answer1" type="checkbox">
+                  <br>
+                  <label for="answer2">Answer2</label>
+                  <input name="answer" id="answer2" type="checkbox">
+                  <br>
+                  <label for="answer3">Answer3</label>
+                  <input name="answer" id="answer3" type="checkbox">
+                  </td>
+              </tr>
+
+
+
+
+
+    </form>
+  </body>
+</head>
+   
+
+
+
+
